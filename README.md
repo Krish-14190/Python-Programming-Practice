@@ -1,6 +1,6 @@
 # 🐍 Python Learning Journey
 
-Welcome to my **Python Learning Repository**! 🚀
+Welcome to my **Python Learning Repository**! 
 
 This repository contains my Python learning journey, where I regularly add code, exercises, practice problems, and mini-projects as I learn new concepts.
 
@@ -101,7 +101,7 @@ Some of the projects and exercises included in this repository:
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 * Build strong Python fundamentals
 * Improve problem-solving and logical thinking
@@ -113,7 +113,7 @@ Some of the projects and exercises included in this repository:
 
 ---
 
-## 📈 My Learning Approach
+## My Learning Approach
 
 I believe in **learning by doing**.
 
@@ -135,7 +135,7 @@ Review & Improve
 
 ---
 
-## 🚀 Repository Status
+## Repository Status
 
 This repository is **actively maintained** and will continue to grow as I learn more Python.
 
@@ -143,7 +143,7 @@ This repository is **actively maintained** and will continue to grow as I learn 
 
 ---
 
-## 👨‍💻 About This Repository
+## About This Repository
 
 This is a personal learning repository created to document my progress in Python and keep all my practice code organized in one place.
 
